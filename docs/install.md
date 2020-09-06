@@ -123,3 +123,8 @@ If you have an existing community and don't want to start from scratch, you may 
 * [SMF2](https://github.com/ItalianSpaceAstronauticsAssociation/smf2_to_flarum)
 
 These can be used for other forum software as well by migrating to phpBB first, then to Flarum. Be aware that we can't guarantee that these will work nor can we offer support for them.
+
+
+https://www.youtube.com/watch?v=p7aJ_MszONY&feature=youtu.be
+https://www.youtube.com/watch?v=xjWtKVChcQc&feature=youtu.be
+This is a COMPLETE instruction for installing Flarum on VDS. There's a parsing of PHP, MySQL, and so on. I have the best tutorial on youtube.
